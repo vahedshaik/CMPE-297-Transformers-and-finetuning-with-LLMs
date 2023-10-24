@@ -16,3 +16,10 @@ Text generation with NanoGPT using **TensorFlow:**
 Text generation with NanoGPT using **JAX:**
 
 **Colab link:** https://colab.research.google.com/drive/1_wA8DdT52i1KuDJ8D2DqEv3qVNQS409O?usp=sharing
+
+**b) Implement "textbooks are all you need"**
+
+Used the existing model that is finetuned with python dataset to finetune the model. 
+
+**Colab link:** https://colab.research.google.com/drive/1qp31a2NE0WTSzV_QdjV3xRCmYOC_EJGg?usp=sharing
+
