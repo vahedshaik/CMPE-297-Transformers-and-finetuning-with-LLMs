@@ -23,3 +23,8 @@ Used the existing model that is finetuned with python dataset to finetune the mo
 
 **Colab link:** https://colab.research.google.com/drive/1qp31a2NE0WTSzV_QdjV3xRCmYOC_EJGg?usp=sharing
 
+**screenshot of the output:**
+
+![Alt Text](https://github.com/vahedshaik/CMPE-297-Transformers-and-finetuning-with-LLMs/blob/4ada7d15d572f60f184bab0c552e72c331752203/Screen%20Shot%202023-10-23%20at%2011.34.55%20PM.png)
+
+
