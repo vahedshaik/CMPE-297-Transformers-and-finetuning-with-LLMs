@@ -17,6 +17,8 @@ Text generation with NanoGPT using **JAX:**
 
 **Colab link:** https://colab.research.google.com/drive/1_wA8DdT52i1KuDJ8D2DqEv3qVNQS409O?usp=sharing
 
+**Medium Article:** https://medium.com/@abdulvahed.shaik/text-generation-withtransformers-86a0adde2fad
+
 **b) Implement "textbooks are all you need"**
 
 Used the existing model that is finetuned with python dataset to finetune the model. 
