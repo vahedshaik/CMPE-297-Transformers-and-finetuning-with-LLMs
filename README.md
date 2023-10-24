@@ -19,6 +19,8 @@ Text generation with NanoGPT using **JAX:**
 
 **Medium Article:** https://medium.com/@abdulvahed.shaik/text-generation-withtransformers-86a0adde2fad
 
+**Youtube Video Link:** https://youtu.be/2eDW4qVqQyU
+
 **b) Implement "textbooks are all you need"**
 
 Used the existing model that is finetuned with python dataset to finetune the model. 
